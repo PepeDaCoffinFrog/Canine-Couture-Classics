@@ -16,7 +16,9 @@ h1 {
 h2 {
   margin-top: 0;
   margin-bottom: 45px;
-  color: white
+  color: white;
+  font-family: 'Noto Sans';
+}
 }
 
 .header {
