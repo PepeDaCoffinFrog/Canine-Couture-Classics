@@ -133,3 +133,7 @@ h3 {
 .fa {
   color: white;
 }
+
+.acknowledge, .copyright {
+  text-decoration: none;
+}
