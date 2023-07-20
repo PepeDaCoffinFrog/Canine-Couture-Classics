@@ -127,6 +127,10 @@ h4 {
   font-family: 'Josefin Sans';
 }
 
+.site-links {
+  background-color: rgb(3,112,160);
+}
+
 .copyright {
   margin-top: 10px
 }
