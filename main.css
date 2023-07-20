@@ -113,6 +113,7 @@ h3 {
   border-top: 5px solid white;
   background-color: rgb(3,112,160);
   color: white;
+  text-transform: uppercase;
   text-decoration: underline;
   padding-bottom: 20px;
   font-family: 'Josefin Sans';
@@ -135,5 +136,6 @@ h3 {
 }
 
 .acknowledge, .copyright {
+  text-transform: lowercase;
   text-decoration: none;
 }
