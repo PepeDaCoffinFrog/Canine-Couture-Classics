@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Anton);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
 body {
   width: 1024px;}
@@ -9,7 +10,7 @@ h1 {
   font-size: 50px;
   margin-bottom: 0;
   color: white;
-  font-family: 'Anton';
+  font-family: 'Noto Sans';
 }
 
 h2 {
