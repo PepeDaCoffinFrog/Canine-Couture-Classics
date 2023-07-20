@@ -85,10 +85,6 @@ h1, h2, a {
   font-size: 18px
 }
 
-.dog-blue-background {
-  display: none
-}
-
 p {
   margin-left: 25px;
 }
@@ -120,6 +116,7 @@ h3 {
   text-transform: uppercase;
   text-decoration: underline;
   padding-bottom: 20px;
+  font-family: 'Josefin Sans';
 }
 
 .copyright {
