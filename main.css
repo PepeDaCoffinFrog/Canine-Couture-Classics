@@ -51,6 +51,7 @@ a {
   background-color: #ab936b;
   color: white;
   text-transform: uppercase;
+  font-family: 'Josefin Sans';
 }
 
 a:hover {
@@ -58,6 +59,7 @@ a:hover {
   padding: 10px;
   background-color: black;
   color: white;
+  font-family: 'Josefin Sans';
 }
 
 h1, h2, a {
