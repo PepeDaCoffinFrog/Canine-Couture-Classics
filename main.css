@@ -139,7 +139,7 @@ h3 {
   color: white;
 }
 
-.acknowledge, .copyright {
+.acknowledgement, .copyright {
   text-transform: lowercase;
   text-decoration: none;
 }
